@@ -1,0 +1,17 @@
+body {
+    background-image: url("https://images.unsplash.com/photo-1579546929518-9e396f3cc809?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Zmx1aWQlMjBncmFkaWVudHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.new{
+    background-color: white;
+    border-radius: 20px;
+    border: 1px solid whitesmoke;
+    width: 400px;
+    margin: 15px;
+    font-size: 18px;
+}
+.heading{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
